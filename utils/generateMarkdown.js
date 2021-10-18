@@ -18,12 +18,12 @@ https://github.com/${data.Username}/${data.Title}
 # Description
 ${data.Description}
 # Table of Contents 
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributing](#Contributing)
+* [Tests](#Tests)
+* [Questions](#Questions)
 # Installation
 The following necessary dependencies must be installed to run the application properly: ${data.Installation}
 # Usage
