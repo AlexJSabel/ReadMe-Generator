@@ -1,6 +1,6 @@
 
 # ReadMe-Generator
-https://github.com/ALexJSabel/ReadMe-Generator
+https://github.com/AlexJSabel/ReadMe-Generator
 # Description
 Generates a READMEfor any project
 # Table of Contents 
@@ -22,4 +22,4 @@ This project is licensed under the MIT license.
 # Tests
 The following is needed to run the test: node index.js
 # Questions
-If you have any questions about the repo, open an issue or contact ALexJSabel directly at : alexj.sabel@gmail.com.
+If you have any questions about the repo, open an issue or contact Alex Sabel directly at : alexj.sabel@gmail.com.

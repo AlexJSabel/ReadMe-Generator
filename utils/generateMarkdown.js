@@ -36,7 +36,7 @@ This project is licensed under the ${data.License} license.
 # Tests
 The following is needed to run the test: ${data.Tests}
 # Questions
-If you have any questions about the repo, open an issue or contact ${data.Username} directly at : ${data.Email}.
+If you have any questions about the repo, open an issue or contact ${data.Questions} directly at : ${data.Email}.
 `
 }
 
